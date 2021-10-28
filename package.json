@@ -1,0 +1,25 @@
+{
+  "name": "pricing_pact",
+  "version": "1.0.0",
+  "description": "Technical test for internship",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "node index.js"
+  },
+  "author": "Charlie Pauvré",
+  "license": "ISC",
+  "dependencies": {
+    "@babel/cli": "^7.15.7",
+    "@babel/core": "^7.15.8",
+    "axios": "^0.21.1",
+    "cheerio": "^1.0.0-rc.10",
+    "fs": "^0.0.1-security",
+    "remove-accents": "^0.4.2",
+    "request-promise": "^4.2.6"
+  },
+  "devDependencies": {
+    "@babel/plugin-proposal-optional-chaining": "^7.14.5",
+    "@babel/preset-env": "^7.15.8"
+  }
+}
