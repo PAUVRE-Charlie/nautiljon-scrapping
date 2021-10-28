@@ -128,4 +128,4 @@ async function getManga(query) {
 }
 
 // getManga("Attaque des titans");
-getAllMangas(100);
+getAllMangas(10);
